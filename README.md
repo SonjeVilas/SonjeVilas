@@ -5,11 +5,11 @@
 
 - 🌱 I’m a **Last Year Computer Engineering Student**
 
-- 👨‍💻 All of my projects are available at my [Portfolio](https://pratikbagade1.github.io/Portfolio/#projects)
+- 👨‍💻 All of my projects are available at my [Portfolio]()
 
 - 💬 Ask me about **Java, React And AWS**
 
-- 📫 How to reach me **pratikbagade13@gmail.com**
+- 📫 How to reach me **vilassonje04@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
