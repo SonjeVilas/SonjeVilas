@@ -23,6 +23,8 @@
   <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/java.svg" alt="aws" width="40" height="40"/> </a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/others/git.svg" alt="linux" width="40" height="40"/> </a>     
    <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/cloud/azure.svg" alt="postman" width="40" height="40"/> </a>
+   <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/text%20editors/vscode.svg" alt="postman" width="40" height="40"/> </a>
+   <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/text%20editors/sublime.svg" alt="postman" width="40" height="40"/> </a>
 </p>
   
 
