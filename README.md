@@ -3,7 +3,7 @@
 <h3 align="center">Highly regarded self-starter and passionate technology enthusiast seeking for opportunities to build innovative solutions.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-- 🌱 I’m a **Software Engineer**
+- 🌱 I’m a **Aspiring Software Engineer**
 
 - 👨‍💻 All of my projects are available at my [Portfolio]()
 
