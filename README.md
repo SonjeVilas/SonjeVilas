@@ -14,22 +14,14 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-   <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/python.svg" alt="C++" width="40" height="40"/> </a>
-   
-   <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/c++.svg" alt="html5" width="40" height="40"/> </a>
-   
-   <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/others/html.svg" alt="javascript" width="40" height="40"/> </a>
-   
+   <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/python.svg" alt="C++" width="40" height="40"/> </a> 
+   <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/c++.svg" alt="html5" width="40" height="40"/> </a> 
+   <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/others/html.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/others/css.svg" alt="react" width="40" height="40"/> </a>
-  
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/javascript.svg" alt="mysql" width="40" height="40"/> </a>
-  
-<a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/databases/mysql.svg" alt="python" width="40" height="40"/> </a>
-   
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/javascript.svg" alt="mysql" width="40" height="40"/> </a>  
+<a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/databases/mysql.svg" alt="python" width="40" height="40"/> </a> 
   <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/java.svg" alt="aws" width="40" height="40"/> </a>
-  
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/others/git.svg" alt="linux" width="40" height="40"/> </a>    
-  
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/others/git.svg" alt="linux" width="40" height="40"/> </a>     
    <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/cloud/azure.svg" alt="postman" width="40" height="40"/> </a>
 </p>
   
