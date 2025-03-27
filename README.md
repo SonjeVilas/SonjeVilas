@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at my [Portfolio]()
 
-- 💬 Ask me about **Python, Machine Learning, C++ and Web Development**
+- 💬 Ask me about **Python, AWS, Machine Learning C++ and Web Development**
 
 - 📫 How to reach me **vilassonje04@gmail.com**
 
