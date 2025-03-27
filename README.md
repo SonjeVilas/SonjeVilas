@@ -25,7 +25,6 @@
    <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/text%20editors/vscode.svg" alt="VScode" width="50" height="50"/> </a>
    <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/text%20editors/sublime.svg" alt="Sublime" width="50" height="50"/> </a>
    <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/> </a>
-    <a href="" target="_blank" rel="noreferrer"> <img src="https://commons.wikimedia.org/wiki/File:Amazon_Web_Services_Logo.svg" alt="aws" width="50" height="50"/> </a>
 </p>
   
 
